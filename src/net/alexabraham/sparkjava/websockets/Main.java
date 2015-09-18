@@ -6,6 +6,6 @@ package net.alexabraham.sparkjava.websockets;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.printf("Hi!");
+        System.out.printf("Hi Bro!");
     }
 }
